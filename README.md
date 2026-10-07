@@ -4,6 +4,8 @@ Static site for BIODOT Lab (Dr Ahmad Al Khleifat, King's College London), hosted
 
 Live at: https://al-khleifat-lab.github.io
 
+Also live preview: https://mistydna.github.io/biodot-preview/
+
 ## Pages
 | File | Page |
 |---|---|
